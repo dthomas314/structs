@@ -11,7 +11,7 @@ $ npm install @dustinleethomas/structs
 
 
 **Usage**
-
+```
 const MinHeap = require("@dustinleethomas/structs/MinHeap");
 
 let testArray = [1, 4, 2, 7];
@@ -32,3 +32,4 @@ console.log(myHeap.remove());
 myHeap.print();
 console.log(myHeap.remove());
 myHeap.print();
+```
