@@ -1,0 +1,11 @@
+{
+    "name": "@dustinleethomas/structs",
+    "version": "2.3.1",
+    "description": "playing around with NPM and creating a simple data structure library",
+    "license": "GNU General Public License",
+    "repository": "dthomas314/structs",
+    "keywords": [
+        "heap",
+        "graph"
+    ]
+}
